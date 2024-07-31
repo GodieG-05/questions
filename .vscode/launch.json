@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AppQuestionsApplication<app_questions>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.questions.app_questions.AppQuestionsApplication",
+            "projectName": "app_questions",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
